@@ -1,2 +1,2 @@
-# better_loader
-Rust shellcode loader that does not use `CreateThread()` and attempts to use Native API calls.
+# Basic Rust Shellcode Loader
+Rust shellcode loader that only uses native API calls.
